@@ -1,3 +1,3 @@
 # proyecto1
 
-Hola, esto es un chat
+Hola, esto no es un chat
